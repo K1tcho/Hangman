@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shubham.hangman.app-mergeDebugResources-51:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shubham\\.gradle\\caches\\9.3.1\\transforms\\226cf612c47c3e0ee66a7004e5977f66\\workspace\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
